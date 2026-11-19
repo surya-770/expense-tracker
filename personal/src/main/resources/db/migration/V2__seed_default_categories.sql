@@ -1,0 +1,15 @@
+INSERT INTO categories (user_id, name, type, icon, color) VALUES
+(NULL, 'Salary', 'INCOME', 'briefcase', '#3C8D72'),
+(NULL, 'Freelancing', 'INCOME', 'laptop', '#538BCB'),
+(NULL, 'Business', 'INCOME', 'store', '#8770C5'),
+(NULL, 'Investment Returns', 'INCOME', 'chart', '#4F9E91'),
+(NULL, 'Other Income', 'INCOME', 'plus', '#7990A7'),
+(NULL, 'Food', 'EXPENSE', 'utensils', '#E79A4A'),
+(NULL, 'Travel', 'EXPENSE', 'car', '#568DD7'),
+(NULL, 'Shopping', 'EXPENSE', 'bag', '#9A72CC'),
+(NULL, 'Education', 'EXPENSE', 'book', '#4B9D98'),
+(NULL, 'Healthcare', 'EXPENSE', 'heart', '#DB6C75'),
+(NULL, 'Entertainment', 'EXPENSE', 'ticket', '#C37BA4'),
+(NULL, 'Bills', 'EXPENSE', 'receipt', '#7B8DA7'),
+(NULL, 'Rent', 'EXPENSE', 'home', '#597CAA'),
+(NULL, 'Other', 'EXPENSE', 'circle', '#98A2B1');
